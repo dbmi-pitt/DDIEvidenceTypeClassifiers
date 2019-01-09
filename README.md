@@ -1,1 +1,1 @@
-# DDIEvidenceTypeClassifiers
+# DDI Evidence Type Classifiers
